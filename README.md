@@ -1,2 +1,2 @@
-# Movie-Recoomendor-system
-Machine learning projects for recommending movies 
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
